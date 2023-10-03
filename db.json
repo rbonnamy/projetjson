@@ -9,6 +9,10 @@
     {
       "id": 2,
       "nom": "Montpellier"
+    },
+    {
+      "id": 3,
+      "nom": "Lyon"
     }
   ]
 }
