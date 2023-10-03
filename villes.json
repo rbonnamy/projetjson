@@ -1,0 +1,9 @@
+{
+	"villes" : [
+		{"id":1,"nom":"Nantes"},
+		{"id":2,"nom":"Montpellier"},
+		{"id":3,"nom":"Lyon"},
+		{"id":4,"nom":"Toulouse"}
+	],
+	"pays":[]
+}
